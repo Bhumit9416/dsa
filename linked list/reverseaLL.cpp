@@ -23,6 +23,7 @@ class node{
             curr->next=prev;
             prev=curr;
             curr=forward;
+            // forward=curr;
         }
         return prev;
 

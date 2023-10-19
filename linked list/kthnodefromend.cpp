@@ -39,6 +39,7 @@ int main(){
    insertAthead(head,5);
    insertAthead(head,6);
    insertAthead(head,7);
+   insertAthead(head,44);
    printList(head);
    cout<<endl;
    kthFromtheEnd(head,4); 
