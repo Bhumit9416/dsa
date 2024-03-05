@@ -29,5 +29,6 @@ int main(){
         cout<<s.top()<<endl;
         s.pop(); 
     }
+    // cout <<"s.pop; "
     return 0;
 }

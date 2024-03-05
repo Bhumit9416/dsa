@@ -26,7 +26,7 @@ void merge(int*a,int*b,int*c,int s,int e){
     a[k]=c[j];
     k++;
     j++;
-  }
+   
   }
 void mergesort(int*a,int s,int e){
 if(s>=e){
